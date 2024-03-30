@@ -74,8 +74,8 @@
    ```
 
    * CancelOrder
-  * @DeleteMapping("/cenel/id")
+  * @DeleteMapping("/cancel/id")
     
   * getAllOrder
-  * @GetMapping("/all)
+  * @GetMapping("/list)
 ![Screenshot (321)](https://github.com/sjha24/Stock-trading-app-assingment/assets/98340874/d00cfa99-2a45-4e64-a3d1-d8e70000f1c2)
